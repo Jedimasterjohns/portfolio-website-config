@@ -113,8 +113,8 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: false
     menus:
       disableAbout: false
@@ -183,7 +183,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Developer"
-        company: "Developer"
+        company: "Verisk"
         companyUrl: "https://www.verisk.com/"
         date: "Jan 2022 - present"
         featuredLink:
@@ -191,29 +191,29 @@ params:
           name: "View the project"
           url: "https://xactimate.com/home/"
         content: |-
-                  - Delivered high-quality solutions across four large-scale React projects, leveraging React, Redux, RTK Query,
-                  and GraphQL to build performant and scalable applications, including migrating a legacy AngularJS application to a feature-parity React application.
-                  - Completed a major initiative to overhaul billing and provisioning for thousands of clients by integrating
-                  systems with Zuora and Salesforce, streamlining processes and improving operational efficiency.
-                  - Spearheaded onboarding and mentorship initiatives for new developers on a rapidly growing team, fostering
-                  a collaborative environment and ensuring consistent adherence to best practices and project standards.
+          - Delivered high-quality solutions across four large-scale React projects, leveraging React, Redux, RTK Query,
+          and GraphQL to build performant and scalable applications, including migrating a legacy AngularJS application to a feature-parity React application.
+          - Completed a major initiative to overhaul billing and provisioning for thousands of clients by integrating
+          systems with Zuora and Salesforce, streamlining processes and improving operational efficiency.
+          - Spearheaded onboarding and mentorship initiatives for new developers on a rapidly growing team, fostering
+          a collaborative environment and ensuring consistent adherence to best practices and project standards.
 
       - job: "Jr Developer"
         company: "Verisk"
         companyUrl: "https://www.verisk.com/"
         date: "April 2019 - January 2022"
-       featuredLink:
+        featuredLink:
           enable: true
           name: "View the project"
           url: "https://help.xactimateone.com/l/enAU"
         content: |-
-                  - Contributed to the development of an international Angular web platform by delivering clean, testable, and
-                  maintainable code
-                  - Streamlined application performance and state management by implementing NgRx for predictable and
-                  robust state handling and refactored the codebase to the reliable observable pattern with RxJS, improving
-                  responsiveness and maintainability
-                  - Spearheaded onboarding and mentorship initiatives for new developers on a rapidly growing team, fostering
-                  a collaborative environment and ensuring consistent adherence to best practices and project standards.
+          - Contributed to the development of an international Angular web platform by delivering clean, testable, and
+          maintainable code
+          - Streamlined application performance and state management by implementing NgRx for predictable and
+          robust state handling and refactored the codebase to the reliable observable pattern with RxJS, improving
+          responsiveness and maintainability
+          - Spearheaded onboarding and mentorship initiatives for new developers on a rapidly growing team, fostering
+          a collaborative environment and ensuring consistent adherence to best practices and project standards.
 
       - job: "Junior Software Developer"
         company: "Apple"
@@ -240,164 +240,4 @@ params:
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-  # Education
-  education:
-    enable: true
-    # title: "Custom Name"
-    index: false
-    items:
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Oregon State University"
-          url: "https://engineering.oregonstate.edu/Academics/Degrees/computer-science"
-        date: "June 2023"
-        content: |
-          - College of Engineering Dean’s List for spring term of 2023
-      - title: "Bachelor of Science in Exercise Science"
-        school:
-          name: "Brigham Young University"
-          url: "https://exsc.byu.edu/"
-        date: "May 2015"
-        content: |-
-          - [Young Americans for Liberty](https://universe.byu.edu/2012/10/09/cougars-discuss-politic-awareness-and-involvement/) Chapter President 
-          - [Brigham Young University Student Association](https://sclcenter.byu.edu/byusa) Executive Director of Research
-
-  # Achievements
-  # achievements:
-  #   enable: true
-  #   # title: "Custom Name"
-  #   items:
-  #     - title: Google kickstart runner
-  #       content: I solved all problems with optimal solution.
-  #       url: https://example.com
-  #       image: /images/achievment.jpg
-  #     - title: Facebook Hackathon Winner
-  #       content: Developed a product using Artificial Intelligence.
-  #       image: /images/achievment.jpg
-  #     - title: Hugo Profile
-  #       content: Developed a theme and getting 1K+ downloads per month.
-  #       url: "https://github.com/gurusabarish/hugo-profile"
-  #       image: /images/achievment.jpg
-  #     - title: Microsoft Imagine Runner
-  #       content: We are developed a product which can help others.
-  #     - title: Google Summer of Code
-  #       content: Contributed to a open source project.
-  #       url: https://example.com
-
-  # projects
-  # projects:
-  #   enable: true
-  #   # title: "Custom Name"
-  #   items:
-  #     - title: Hugo Profile
-  #       content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-  #       image: /images/projects/profile.png
-  #       featured:
-  #         name: Demo
-  #         link: https://hugo-profile.netlify.app
-  #       badges:
-  #         - "Hugo"
-  #         - "Bootstrap"
-  #         - "Javascript"
-  #       links:
-  #         - icon: fa fa-envelope
-  #           url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-  #         - icon: fab fa-github
-  #           url: https://github.com/gurusabarish/hugo-profile
-  #         - icon: fab fa-twitter
-  #           url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-  #     - title: Image Converter
-  #       content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-  #       image: /images/projects/converter.jpg
-  #       featured:
-  #         name: Demo
-  #         link: https://django-converter.herokuapp.com
-  #       badges:
-  #         - "Django"
-  #         - "Bootstrap"
-  #       links:
-  #         - icon: fab fa-github
-  #           url: https://github.com/gurusabarish/converter
-
-  #     - title: Hugo Profile V2
-  #       content: A clean and simple Hugo template for personal portfolio and blog.
-  #       image: /images/projects/profile2.jpg
-  #       featured:
-  #         name: Demo V2
-  #         link: https://hugo-profile-2.netlify.app
-  #       badges:
-  #         - "Hugo"
-  #         - "Bootstrap"
-  #         - "Javascript"
-  #       links:
-  #         - icon: fab fa-github
-  #           url: https://github.com/gurusabarish/HugoProfileV2
-
-  #Contact
-  contact:
-    enable: true
-    # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    btnName: Mail me
-    btnLink: mailto:jedimasterjohns@gmail.com
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
-    #   messageRows: 5
-
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com/Jedimasterjohns
-      linkedin: https://linkedin.com/in/ryanj2
-      twitter: https://x.com/jedimasterjohns
-      instagram: https://www.instagram.com/jedimasterjohns/?hl=en
-      facebook: https://www.facebook.com/jedimasterjohns
-
-  # List pages like blogs and posts
-  listPages:
-    disableFeaturedImage: false
-
-  # Single pages like blog and post
-  singlePages:
-    socialShare: true
-    readTime:
-      enable: true
-      content: "min read"
-    scrollprogress:
-      enable: true
-    tags:
-      openInNewTab: true
-
-  # For translations
-  terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
-
-  datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
-
-  #customScripts: -| # You can add custom scripts which will be added before </body> tag
-  #  <script type="text/javascript"><!-- any script here --></script>
+          - Lead backend
