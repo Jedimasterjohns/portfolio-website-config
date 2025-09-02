@@ -153,9 +153,9 @@ params:
     content: |-
       I am a software developer who thrives on crafting engaging web experiences. On my own time I enjoy hiking with my two kids, working on my 2004 Release Series 1.0 Scion xB, and smoking BBQ brisket low and slow.
 
-       I have worked at [Verisk](https://www.verisk.com/) in Lehi, Utah since 2017 in the both QA and engineering capacities. This has given me a unique perspective on the software development lifecycle, and I have been able to leverage this experience to create more robust and maintainable software.
+       I have worked at [Verisk](https://www.verisk.com/) in Lehi, Utah since 2017 in both QA and engineering capacities. This has given me a unique perspective on the software development lifecycle, and I have been able to leverage this experience to create more robust and maintainable software.
 
-      In the past year, I've been spearheading the development of a revamped web version of our organization's flagship product, [Xactimate](https://xactimate.com/home).
+      In the past year, I've spearheaded the redevelopment of the web version of [Xactimate](https://xactimate.com/home), our organization’s flagship product, while leading the overhaul of build and deployment pipelines to establish modern CI/CD practices across our application suite.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -188,8 +188,7 @@ params:
         content: |-
           - Delivered high-quality solutions across four large-scale React projects, leveraging React, Redux, RTK Query,
           and GraphQL to build performant and scalable applications, including migrating a legacy AngularJS application to a feature-parity React application.
-          - Completed a major initiative to overhaul billing and provisioning for thousands of clients by integrating
-          systems with Zuora and Salesforce, streamlining processes and improving operational efficiency.
+          - Overhauled deployment processes by migrating to Azure DevOps, establishing CI/CD pipelines that reduced manual overhead, minimized infrastructure costs, and saved the company significant operational expenses.
           - Spearheaded onboarding and mentorship initiatives for new developers on a rapidly growing team, fostering
           a collaborative environment and ensuring consistent adherence to best practices and project standards.
 
