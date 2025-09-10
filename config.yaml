@@ -102,8 +102,8 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "/fav.png" # Logo for the brand | default is the favicon variable
-    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandLogo: /fav.png # Logo for the brand | default is the favicon variable
+    showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Ryan Johns" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
@@ -125,7 +125,7 @@ params:
     intro: "Hi, you can call me"
     title: "Ryan."
     subtitle: "I build things for the web"
-    content: “I build modern, responsive web applications that users love and teams can trust.”
+    content: I create modern, responsive web applications that users love and teams can trust.
     image: /HeadShotSquare.jpg
     bottomImage:
       enable: true
